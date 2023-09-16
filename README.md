@@ -1,6 +1,6 @@
 # My first Angular Project
 ## General info
-I making this project to learn how works Angular framework and learn new skills and features that offers Angular framework.
+I making this project from official webpage of Angular framework to learn how works Angular framework and learn new skills and features that offers Angular framework.
 ## Technologies
 Project is created with:
 * Angular 16.1.0
